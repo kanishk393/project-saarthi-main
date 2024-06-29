@@ -15,4 +15,3 @@ Low-Fi: [Saarthi Low-Fi](https://www.figma.com/file/uhI6XYvDhZRIQAf6w9zaQG/ISY-F
 High-Fi created directly in HTML and CSS
 
 
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/rk5IrG1E)
